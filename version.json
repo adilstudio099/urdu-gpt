@@ -1,0 +1,11 @@
+{
+  "latestVersionCode": 2,
+  "latestVersionName": "1.0.1",
+  "minSupportedVersionCode": 1,
+  "apkUrl": "https://github.com/adilstudio099/urdu-gpt/releases/latest/download/Urdu-GPT.apk",
+  "sha256": "1663239FE3B82504965FD3A592FCF0A0208F6F4E3F76CFD0DCDDAB74CE454DEA",
+  "notes": [
+    "Added in-app update checker",
+    "Added Privacy Policy link"
+  ]
+}

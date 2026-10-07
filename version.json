@@ -3,7 +3,7 @@
   "latestVersionName": "1.0.2",
   "minSupportedVersionCode": 1,
   "apkUrl": "https://github.com/adilstudio099/urdu-gpt/releases/latest/download/Urdu-GPT.apk",
-  "sha256": "",
+  "sha256": "8623E2D16FD10B9DD94877235047411D73541675D847E8E313A1350EF197A170",
   "notes": [
     "Added crash reporting",
     "Added Send feedback button"

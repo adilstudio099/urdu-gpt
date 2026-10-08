@@ -3,7 +3,7 @@
   "latestVersionName": "1.0.4",
   "minSupportedVersionCode": 1,
   "apkUrl": "https://github.com/adilstudio099/urdu-gpt/releases/latest/download/Urdu-GPT.apk",
-  "sha256": "15:5A:3E:E7:0E:C5:9D:04:C1:3A:91:34:B5:AA:A3:08:37:CA:3E:52",
+  "sha256": "e8a7094e6b3b4d1eb66e27d066afe72878e0e3d8b250a914cebbbb135e90a151",
   "notes": [
     "Jarvis now uses only Gemini 3.8 Flash",
     "Clearer Gemini error details"

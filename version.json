@@ -1,11 +1,11 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
+  "latestVersionCode": 5,
+  "latestVersionName": "1.0.4",
   "minSupportedVersionCode": 1,
   "apkUrl": "https://github.com/adilstudio099/urdu-gpt/releases/latest/download/Urdu-GPT.apk",
-  "sha256": "",
+  "sha256": "15:5A:3E:E7:0E:C5:9D:04:C1:3A:91:34:B5:AA:A3:08:37:CA:3E:52",
   "notes": [
-    "Jarvis now switches to an available Gemini model automatically",
-    "Better support for free Gemini keys"
+    "Jarvis now uses only Gemini 3.8 Flash",
+    "Clearer Gemini error details"
   ]
 }
